@@ -11,7 +11,7 @@ $arResult = [];
 //проверить результат можно на странице gellery.php
 
 
-//$i = 0;
+$i = 0;
 
 foreach($content as $value) {
     
